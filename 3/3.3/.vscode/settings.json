@@ -1,0 +1,7 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "func_sum.h": "c",
+    "random": "c"
+  }
+}

@@ -1,0 +1,1 @@
+void random2(void);

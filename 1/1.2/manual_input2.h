@@ -1,0 +1,1 @@
+void manual_input2(void);

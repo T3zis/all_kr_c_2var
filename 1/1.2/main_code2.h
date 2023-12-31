@@ -1,0 +1,1 @@
+void main_code2(void);
